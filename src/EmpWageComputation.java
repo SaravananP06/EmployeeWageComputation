@@ -13,6 +13,7 @@ public class EmpWageComputation {
             System.out.println("Employee is Absent");
             int total_salary = 0;
             System.out.println("total salary is " +total_salary);
+
         }
     }
 }
